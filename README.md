@@ -5,7 +5,7 @@
   2. ByteArrayOutputStream  and ByteArrayInputStream
   3. bjectOutputStream and ObjectInputStream
 
-## Charcter Stream
+## Character Stream
   1. BufferedWriter and BufferedReader
   2. OutputStreamWriter and InputStreamReader
   3. FileWriter and FileWriter
