@@ -3,7 +3,7 @@
 ## Byte Stream
   1. FileOutputStream and FileInputStream
   2. ByteArrayOutputStream  and ByteArrayInputStream
-  3. bjectOutputStream and ObjectInputStream
+  3. ObjectOutputStream and ObjectInputStream
 
 ## Character Stream
   1. BufferedWriter and BufferedReader
